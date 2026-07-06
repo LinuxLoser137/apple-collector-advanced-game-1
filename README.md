@@ -1,7 +1,6 @@
 
 ---
-
-## 6. `apple-collector-arcade-game`
+apple-collector-arcade-game
 
 Use this one if you rename the repo from `apple-collector-advanced-game-1` to something cleaner.
 
