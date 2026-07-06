@@ -1,26 +1,55 @@
- 
 
+---
 
-> Open this page at [https://linuxloser137.github.io/apple-collector-advanced-game-1/](https://linuxloser137.github.io/apple-collector-advanced-game-1/)
+## 6. `apple-collector-arcade-game`
 
-## Use as Extension
+Use this one if you rename the repo from `apple-collector-advanced-game-1` to something cleaner.
 
-This repository can be added as an **extension** in MakeCode.
+```markdown
+# Apple Collector Arcade Game
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/linuxloser137/apple-collector-advanced-game-1** and import
+A beginner-friendly arcade game where the player collects apples, avoids bad apples, and practices game logic, sprites, scoring, and debugging.
 
-## Edit this project
+## About This Project
 
-To edit this repository in MakeCode.
+This project was created in MakeCode Arcade to practice game development basics. The player collects apples while avoiding bad apples or obstacles. The project helped me practice programming concepts in a visual and interactive way.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/linuxloser137/apple-collector-advanced-game-1** and click import
+The goal of this project was to build a playable game while learning about sprites, conditions, scoring, game events, and debugging.
 
-#### Metadata (used for search, rendering)
+## Features
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+- Player-controlled character
+- Apple collecting gameplay
+- Bad apple obstacle
+- Score tracking
+- Sprite movement
+- Collision detection
+- Game logic practice
+- Debugging and improvement practice
+
+## Technologies Used
+
+- MakeCode Arcade
+- TypeScript/Blocks
+- Git
+- GitHub
+
+## What I Learned
+
+While building this project, I practiced using sprites, movement, collision detection, scoring, conditions, and game events. I also learned how to debug issues when sprites or game features do not work correctly. This project helped me understand programming logic in a visual and interactive way.
+
+## Future Improvements
+
+- Add more levels
+- Add a timer
+- Add sound effects
+- Add power-ups
+- Add different enemy types
+- Add a start screen
+- Add a game-over screen with restart instructions
+- Improve sprite design
+
+## Author
+
+Savannah Young  
+Aspiring Software Engineer
