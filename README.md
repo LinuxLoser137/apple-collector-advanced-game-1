@@ -1,10 +1,4 @@
 
----
-apple-collector-arcade-game
-
-Use this one if you rename the repo from `apple-collector-advanced-game-1` to something cleaner.
-
-```markdown
 # Apple Collector Arcade Game
 
 A beginner-friendly arcade game where the player collects apples, avoids bad apples, and practices game logic, sprites, scoring, and debugging.
